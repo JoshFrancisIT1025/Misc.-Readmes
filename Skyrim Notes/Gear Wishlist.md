@@ -1,17 +1,17 @@
 # Combat Gear Set
 ### Armor
-1. Ciri's Top (TBD)
-2. Ciri's Gloves (TBD)
-3. Ciri's Boots (TBD)
-4. Wreath Circlet (CN's Accessories) (TBD)
-5. Bone Hawk Necklace (TBD)
-6. Bone Hawk Ring (TBD)
+- [ ] Ciri's Top (TBD)
+- [ ] Ciri's Gloves (TBD)
+- [ ] Ciri's Boots (TBD)
+- [ ] Wreath Circlet (CN's Accessories) (TBD)
+- [ ] Bone Hawk Necklace (TBD)
+- [ ] Bone Hawk Ring (TBD)
 ### Weapon
-1. Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Shocking Soul Trap) 
+- [ ] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Shocking Soul Trap) 
 
 # City Wear
-1. Wreath Circlet (CN's Accessories) (Fortify Alchemy)
-2. Any Necklace (Fortify Alchemy, Fortify Smithing)
-3. Any Ring (Fortify Alchemy, Fortify Smithing)
-4. Tavern Clothes (Fortify Smithing, Fortify Potion Duration)
-6. Gloves (Fortify Alchemy, Fortify Smithing)
+- [ ] Wreath Circlet (CN's Accessories) (Fortify Alchemy)
+- [ ] Any Necklace (Fortify Alchemy, Fortify Smithing)
+- [ ] Any Ring (Fortify Alchemy, Fortify Smithing)
+- [ ] Tavern Clothes (Fortify Smithing, Fortify Potion Duration)
+- [ ] Gloves (Fortify Alchemy, Fortify Smithing)

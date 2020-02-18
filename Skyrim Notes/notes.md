@@ -12,35 +12,35 @@
 ## ToDo Lists
 ### Crafting Items
 #### Crafting Prep
-- [ ] Get Ahzidal's Armor
-- [ ] Get 100 Enchanting and all applicable perks
-- [ ] Get an Enchanter's Elixr (25%)
-- [ ] Get 100 Alchemy and all applicable perks
-- [ ] Enchant a set of fortify alchemy gear
-- [ ] Create a Fortify Enchanting potion with said gear
-- [ ] Create a new set of Fortify Alchemy gear
-- [ ] Create some Fortify Enchanting potions for future crafting sessions
-- [ ] Create some Fortify Smithing potions
-- [ ] Use at least one of the potions to create a Fortify Smithing set
+- [x] Get Ahzidal's Armor
+- [x] Get 100 Enchanting and all applicable perks
+- [x] Get an Enchanter's Elixr (25%)
+- [x] Get 100 Alchemy and all applicable perks
+- [x] Enchant a set of fortify alchemy gear
+- [x] Create a Fortify Enchanting potion with said gear
+- [x] Create a new set of Fortify Alchemy gear
+- [x] Create some Fortify Enchanting potions for future crafting sessions
+- [x] Create some Fortify Smithing potions
+- [x] Use at least one of the potions to create a Fortify Smithing set
 #### Creating the Gear Set
-- [ ] Get the base pieces you want for final armor set
+- [x] Get the base pieces you want for final armor set
 - [ ] Pick out what enchantments should go on your final gear
 - [ ] Farm merchants to learn all enchantments you need.
-- [ ] By this point you should have every enchanting boost available to you.  (Old ways 40%, Fortify Enchanting Potion, Ahzidal's armor, Seeker of Sorcery)
+- [x] By this point you should have every enchanting boost available to you.  (Old ways 40%, Fortify Enchanting Potion, Ahzidal's armor, Seeker of Sorcery)
 - [ ] Equip your fortify smithing gear, take a fortify smithing potion, and activate old ways dragon aspect.  Then improve your armor and weapons to legendary (Probably past legendary)
 - [ ] Equip Ahzidal's armor, take an enchanting potion, and enchant your armor and weapons.  Make sure old ways dragon aspect is active, and that you only take miracle perk when you enchant your weapon.
 
 ----
 ### Combat Gear Set
 #### Armor
-- [ ] Ciri's Top (TBD)
-- [ ] Ciri's Gloves (TBD)
-- [ ] Ciri's Boots (TBD)
-- [ ] Wreath Circlet (CN's Accessories) (TBD)
-- [ ] Bone Hawk Necklace (TBD)
-- [ ] Bone Hawk Ring (TBD)
+- [ ] Ciri's Top (Windfall, Cheat Death)
+- [ ] Ciri's Gloves (Fortify One-Handed, Recharge Weapons)
+- [ ] Ciri's Boots (Fortify One-Handed, Fortify Speed)
+- [ ] Wreath Circlet (CN's Accessories) (Fortify Destruction, Recharge Weapons)
+- [ ] Bone Hawk Necklace (Fortify One-Handed, Resist Magic)
+- [ ] Bone Hawk Ring (Fortify One-Handed, Resist Magic)
 #### Weapon
-- [ ] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Shocking Soul Trap) 
+- [ ] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Rolling Thunder) 
 
 ### City Wear
 - [ ] Wreath Circlet (CN's Accessories) (Fortify Alchemy)

@@ -24,7 +24,7 @@
 - [x] Use at least one of the potions to create a Fortify Smithing set
 #### Creating the Gear Set
 - [x] Get the base pieces you want for final armor set
-- [ ] Pick out what enchantments should go on your final gear
+- [x] Pick out what enchantments should go on your final gear
 - [ ] Farm merchants to learn all enchantments you need.
 - [x] By this point you should have every enchanting boost available to you.  (Old ways 40%, Fortify Enchanting Potion, Ahzidal's armor, Seeker of Sorcery)
 - [ ] Equip your fortify smithing gear, take a fortify smithing potion, and activate old ways dragon aspect.  Then improve your armor and weapons to legendary (Probably past legendary)

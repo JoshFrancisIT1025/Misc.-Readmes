@@ -43,8 +43,8 @@
 - [ ] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Rolling Thunder) 
 
 ### City Wear
-- [ ] Wreath Circlet (CN's Accessories) (Fortify Alchemy)
-- [ ] Any Necklace (Fortify Alchemy, Fortify Smithing)
-- [ ] Any Ring (Fortify Alchemy, Fortify Smithing)
-- [ ] Tavern Clothes (Fortify Smithing, Fortify Potion Duration)
-- [ ] Gloves (Fortify Alchemy, Fortify Smithing)
+- [x] Wreath Circlet (CN's Accessories) (Fortify Alchemy)
+- [x] Any Necklace (Fortify Alchemy, Fortify Smithing)
+- [x] Any Ring (Fortify Alchemy, Fortify Smithing)
+- [x] Tavern Clothes (Fortify Smithing, Fortify Potion Duration)
+- [x] Gloves (Fortify Alchemy, Fortify Smithing)

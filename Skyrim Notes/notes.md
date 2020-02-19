@@ -27,20 +27,20 @@
 - [x] Pick out what enchantments should go on your final gear
 - [ ] Farm merchants to learn all enchantments you need.
 - [x] By this point you should have every enchanting boost available to you.  (Old ways 40%, Fortify Enchanting Potion, Ahzidal's armor, Seeker of Sorcery)
-- [ ] Equip your fortify smithing gear, take a fortify smithing potion, and activate old ways dragon aspect.  Then improve your armor and weapons to legendary (Probably past legendary)
-- [ ] Equip Ahzidal's armor, take an enchanting potion, and enchant your armor and weapons.  Make sure old ways dragon aspect is active, and that you only take miracle perk when you enchant your weapon.
+- [x] Equip your fortify smithing gear, take a fortify smithing potion, and activate old ways dragon aspect.  Then improve your armor and weapons to legendary (Probably past legendary)
+- [x] Equip Ahzidal's armor, take an enchanting potion, and enchant your armor and weapons.  Make sure old ways dragon aspect is active, and that you only take miracle perk when you enchant your weapon.
 
 ----
 ### Combat Gear Set
 #### Armor
-- [ ] Ciri's Top (Windfall, Cheat Death)
-- [ ] Ciri's Gloves (Fortify One-Handed, Recharge Weapons)
-- [ ] Ciri's Boots (Fortify One-Handed, Fortify Speed)
-- [ ] Wreath Circlet (CN's Accessories) (Fortify Destruction, Recharge Weapons)
-- [ ] Bone Hawk Necklace (Fortify One-Handed, Resist Magic)
-- [ ] Bone Hawk Ring (Fortify One-Handed, Resist Magic)
+- [x] Ciri's Top (Windfall, Cheat Death)
+- [x] Ciri's Gloves (Fortify One-Handed, Recharge Weapons)
+- [x] Ciri's Boots (Fortify One-Handed, Fortify Speed)
+- [x] Wreath Circlet (CN's Accessories) (Fortify Destruction, Recharge Weapons)
+- [x] Bone Hawk Necklace (Fortify One-Handed, Resist Magic)
+- [x] Bone Hawk Ring (Fortify One-Handed, Resist Magic)
 #### Weapon
-- [ ] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Rolling Thunder) 
+- [x] Ice Blade of the Monarch (Chaos Absorb, Chaos Damage, Rolling Thunder) 
 
 ### City Wear
 - [x] Wreath Circlet (CN's Accessories) (Fortify Alchemy)
